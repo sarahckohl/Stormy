@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  Stormy
 //
-//  Created by yuzu on 2017/07/09.
-//  Copyright © 2017 Sarah Kohl. All rights reserved.
+//  Created by Pasan Premaratne on 2/15/17.
+//  Copyright © 2017 Treehouse. All rights reserved.
 //
 
 import UIKit
